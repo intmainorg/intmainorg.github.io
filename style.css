@@ -8,7 +8,7 @@ body::-webkit-scrollbar {
     display: none;
   }
 .bodyImage{
-    background:url('assets/Mountain2.png');
+    background:url('https://www.imagesjunction.com/images/img/mountain_Wallpaper.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
